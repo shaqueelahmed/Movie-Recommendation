@@ -6,4 +6,4 @@ pandas
 numpy
 scipy
 scikit-learn
-streamlit
+streamlit>=1.35.0
